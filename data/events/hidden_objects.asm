@@ -546,7 +546,7 @@ CinnabarGymHiddenObjects:
 	hidden_object  9,  7, (TRUE  << 4) | 3, PrintCinnabarQuiz
 	hidden_object  9, 13, (TRUE  << 4) | 4, PrintCinnabarQuiz
 	hidden_object  1, 13, (FALSE << 4) | 5, PrintCinnabarQuiz
-	hidden_object  1,  7, (TRUE  << 4) | 6, PrintCinnabarQuiz
+	hidden_object  1,  7, (FALSE << 4) | 6, PrintCinnabarQuiz ;Tombstoner Brother
 	db -1 ; end
 
 CinnabarLab4HiddenObjects:

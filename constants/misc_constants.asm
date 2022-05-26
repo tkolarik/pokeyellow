@@ -16,3 +16,6 @@ TEXT_DELAY_SLOW    EQU %101 ; 5
 	const_def 6
 	const BIT_BATTLE_SHIFT     ; 6
 	const BIT_BATTLE_ANIMATION ; 7
+
+BATTLE_SHIFT       EQU %1 ; 0 for Shift
+BATTLE_ANIMATION   EQU %1 ; 0 for animations
